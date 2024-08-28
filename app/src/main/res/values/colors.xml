@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryDark">#186997</color>
+    <color name="primaryLight">#AFD4EC</color>
+    <color name="accent">#F6BD1E</color>
+    <color name="backgroundLight">#F5F5F5</color>
+    <color name="backgroundDark">#302C2C</color>
+    <color name="textHint">#5B000000</color>
+    <color name="textLight">#000000</color>
+    <color name="textDark">#FFFFFF</color>
+    <color name="cardBackgroundLight">#D5D5D5</color>
+    <color name="cardBackgroundDark">#121212</color>
+    <color name="editTextStroke">#AFD4EC</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_transparent_accent">#BA186997</color>
+</resources>
